@@ -8,9 +8,13 @@
 1)Go to the api folder <br/>
 2)Run npm i <br/>
 3)Startup your mongodb server(this application uses mongodb as database). <br/>
-4)Run npm run dev. <br/>
-5)Go to the client folder. <br/>
-6)Run npm i. <br/>
-7)To fully use the application you should have installed 2 emulators on your computer. One of the should be ios, other one is android.
-8)Run expo start --ios
-9)Run expo start --android
+4)Create .env file and put <br/>
+  JWT_SECRET = d1e8a70b5ccab1dc2f56bbf7e99f064a660c08e361a35751b9c483c88943d082 <br/>
+  SALT_ROUNDS = 10 <br/>
+  NODE_ENV=development <br/>
+5)Run npm run dev. <br/>
+6)Go to the client folder. <br/>
+7)Run npm i. <br/>
+8)To fully use the application you should have installed 2 emulators on your computer. One of the should be ios, other one is android.
+9)Run expo start --ios
+10)Run expo start --android
