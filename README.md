@@ -15,6 +15,6 @@
 5)Run npm run dev. <br/>
 6)Go to the client folder. <br/>
 7)Run npm i. <br/>
-8)To fully use the application you should have installed 2 emulators on your computer. One of the should be ios, other one is android.
-9)Run expo start --ios
-10)Run expo start --android
+8)To fully use the application you should have installed 2 emulators on your computer. One of the should be ios, other one is android. <br/>
+9)Run expo start --ios <br/>
+10)Run expo start --android <br/>
